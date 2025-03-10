@@ -7,13 +7,18 @@ h1 {
   font-size: 48px;
 }
 
-ul {
+h3 {
+  font-size: 32px;
+}
+
+ul,
+ol {
   padding: 0;
 }
 
-ul li {
+ul li,
+ol li {
   list-style: none;
-  text-align: center;
   font-size: 24px;
   padding: 5px;
 }
@@ -21,4 +26,8 @@ ul li {
 a {
   text-decoration: none;
   color: gray;
+}
+
+p {
+  font-size: 24px;
 }
